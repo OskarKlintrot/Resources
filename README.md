@@ -7,7 +7,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 ### Authentication
 
 - [mvc5 global authentication check on Stack Overflow](http://stackoverflow.com/questions/23376477/mvc5-global-authentication-check)
-- [Securing your ASP.NET MVC 4 App and the new AllowAnonymous Attribute](https://blogs.msdn.microsoft.com/rickandy/2012/03/23/securing-your-asp-net-mvc-4-app-and-the-new-allowanonymous-attribute/)
+- [Securing your ASP.NET MVC 4 App and the new AllowAnonymous Attribute by Rick Anderson](https://blogs.msdn.microsoft.com/rickandy/2012/03/23/securing-your-asp-net-mvc-4-app-and-the-new-allowanonymous-attribute/)
 
 ## Javascript
 
@@ -18,13 +18,13 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ### Redux
 
-- [What is Redux Thunk and when you don’t need it](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) 
+- [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) 
 
 ## Design and UX
 
-- [Design Seeds/](http://www.design-seeds.com/)
+- [Design Seeds Website](http://www.design-seeds.com/)
 
 ## Miscellaneous
 
 - [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
-- [The definitive guide to form-based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+- [The definitive guide to form-based website authenticationon Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
