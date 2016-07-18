@@ -16,6 +16,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Container Components by Learn React with chantastic](https://medium.com/@learnreact/container-components-c0e67432e005#.9yfwzqgc0)
 - [Presentational and Container Components by Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.pi8rkasep)
 
+### Redux
+
+- [What is Redux Thunk and when you don’t need it](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) 
+
 ## Design and UX
 
 - [Design Seeds/](http://www.design-seeds.com/)
