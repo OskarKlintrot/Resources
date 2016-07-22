@@ -18,7 +18,11 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ### Redux
 
-- [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) 
+- [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+
+### Authentication
+
+- [10 Things You Should Know about Tokens by Matias Woloski at auth0.com](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/)
 
 ## CSS - Cascading Style Sheets
 
