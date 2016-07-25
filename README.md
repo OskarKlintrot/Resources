@@ -16,6 +16,11 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Container Components by Learn React with chantastic](https://medium.com/@learnreact/container-components-c0e67432e005#.9yfwzqgc0)
 - [Presentational and Container Components by Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.pi8rkasep)
 
+#### create-react-app
+
+- [create-react-app got 733 transitive dependencies by Dan Abramov on Twitter](https://twitter.com/dan_abramov/status/757279241256009732)
+- [“create-react-app” and the future of creating React applications by Tyler McGinnis at Medium](https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c)
+
 ### Redux
 
 - [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
