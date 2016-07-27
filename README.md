@@ -4,7 +4,11 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ## ASP.NET
 
-### Authentication
+### Security
+
+- [Building Secure Apps for Windows IoT Core by Windows Apps Team](https://blogs.windows.com/buildingapps/2016/07/20/building-secure-apps-for-windows-iot-core/)
+
+#### Authentication
 
 - [mvc5 global authentication check on Stack Overflow](http://stackoverflow.com/questions/23376477/mvc5-global-authentication-check)
 - [Securing your ASP.NET MVC 4 App and the new AllowAnonymous Attribute by Rick Anderson](https://blogs.msdn.microsoft.com/rickandy/2012/03/23/securing-your-asp-net-mvc-4-app-and-the-new-allowanonymous-attribute/)
