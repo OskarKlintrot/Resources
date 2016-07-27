@@ -60,5 +60,4 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ### Traffic Safety (don't ask)
 
-- [Cyclists with iPods hear the same as motorists listening to nothing
-Carlton Reid by Carlton Reid](http://www.bikebiz.com/news/read/cyclists-with-ipods-hear-the-same-as-motorists-listening-to-nothing/013329)
+- [Cyclists with iPods hear the same as motorists listening to nothing by Carlton Reid](http://www.bikebiz.com/news/read/cyclists-with-ipods-hear-the-same-as-motorists-listening-to-nothing/013329)
