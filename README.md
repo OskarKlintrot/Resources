@@ -50,6 +50,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
 - [Polyfill.io, Upgrade the web. Automatically.](https://polyfill.io/)
+- [Cycle.js, A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
+- [Horizon, The realtime JavaScript backend](http://horizon.io/)
+- [Choo, Sturdy frontend framework](https://github.com/yoshuawuyts/choo)
+- [Composition in CycleJS, Choo, React and Angular2 by Daviud Waller](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
 
 ## CSS - Cascading Style Sheets
 
