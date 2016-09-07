@@ -75,6 +75,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [NPM & left-pad: Have We Forgotten How To Program? by David Haney](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
 - [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 - [The definitive guide to form-based website authenticationon Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+- [Editorconfig](http://editorconfig.org/)
 
 
 ### Traffic Safety (don't ask)
