@@ -69,6 +69,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 ## Architecture and Patterns
 
 - [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
+ 
+## Finance
+
+- [Get Realtime Stock Quotes using Yahoo Finance API by Victor Bias](http://meumobi.github.io/stocks%20apis/2016/03/13/get-realtime-stock-quotes-yahoo-finance-api.html)
 
 ## Miscellaneous
 
