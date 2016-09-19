@@ -72,7 +72,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
  
 ## Finance
 
-- [Get Realtime Stock Quotes using Yahoo Finance API by Victor Bias](http://meumobi.github.io/stocks%20apis/2016/03/13/get-realtime-stock-quotes-yahoo-finance-api.html)
+- [EnClout Yahoo Finance API](http://www.enclout.com/api/yahoo_finance)
 
 ## Miscellaneous
 
