@@ -51,6 +51,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 ### Miscellaneous
 
 - [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
+- [Feathers, A minimalist real-time framework for tomorrow's apps](http://feathersjs.com/)
 - [Polyfill.io, Upgrade the web. Automatically.](https://polyfill.io/)
 - [Cycle.js, A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
 - [Horizon, The realtime JavaScript backend](http://horizon.io/)
