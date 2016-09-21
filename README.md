@@ -74,6 +74,11 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 
+
+## Hacking and tinkering
+
+- [Raspberry Pi ZERO Minimal Streamer at PolyVection](https://polyvection.com/guides/raspberry-pi-zero-minimal-streamer/)
+
 ## Miscellaneous
 
 - [NPM & left-pad: Have We Forgotten How To Program? by David Haney](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
