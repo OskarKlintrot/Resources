@@ -47,15 +47,18 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [10 Things You Should Know about Tokens by Matias Woloski at auth0.com](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/)
 
+### Real time stuff
+
+- [Using RethinkDB with ExpressJS by Craig Walsh](https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs)
+- [Feathers, A minimalist real-time framework for tomorrow's apps](http://feathersjs.com/)
+- [Building a REST and real-time API with Express, Feathers and MongoDB by David Luecke](https://blog.feathersjs.com/building-a-rest-and-real-time-api-with-express-feathers-and-mongodb-12071e5417e1#.mojoxxd1n)
+- [Horizon, The realtime JavaScript backend](http://horizon.io/)
 
 ### Miscellaneous
 
 - [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
-- [Feathers, A minimalist real-time framework for tomorrow's apps](http://feathersjs.com/)
-- [Building a REST and real-time API with Express, Feathers and MongoDB by David Luecke](https://blog.feathersjs.com/building-a-rest-and-real-time-api-with-express-feathers-and-mongodb-12071e5417e1#.mojoxxd1n)
 - [Polyfill.io, Upgrade the web. Automatically.](https://polyfill.io/)
 - [Cycle.js, A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
-- [Horizon, The realtime JavaScript backend](http://horizon.io/)
 - [Choo, Sturdy frontend framework](https://github.com/yoshuawuyts/choo)
 - [Composition in CycleJS, Choo, React and Angular2 by Daviud Waller](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
 
