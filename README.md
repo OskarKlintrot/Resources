@@ -70,14 +70,9 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [Design Seeds Website](http://www.design-seeds.com/)
 
-
 ## Architecture and Patterns
 
 - [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
- 
-## Finance
-
-- [EnClout Yahoo Finance API](http://www.enclout.com/api/yahoo_finance)
 
 ## Miscellaneous
 
@@ -85,7 +80,6 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 - [The definitive guide to form-based website authenticationon Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 - [Editorconfig](http://editorconfig.org/)
-
 
 ### Traffic Safety (don't ask)
 
