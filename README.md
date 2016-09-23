@@ -4,6 +4,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ## ASP.NET
 
+### .NET Core
+
+- [Self-contained .NET Core Applications by Scott Hanselman](http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx)
+
 ### Debugging
 
 - [7 Ways to Look at the Values of Variables While Debugging in Visual Studio by Kaycee Anderson](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/15/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/)
