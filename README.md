@@ -65,6 +65,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Cycle.js, A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
 - [Choo, Sturdy frontend framework](https://github.com/yoshuawuyts/choo)
 - [Composition in CycleJS, Choo, React and Angular2 by Daviud Waller](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
+- [The state of JavaScript](http://stateofjs.com/)
 
 ## CSS - Cascading Style Sheets
 
