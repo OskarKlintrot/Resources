@@ -92,6 +92,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Editorconfig](http://editorconfig.org/)
 - [Why did IBM's OS/2 project lose to Microsoft, given that IBM had much more resources than Microsoft at that time? on Quora - See first comment to the first answer for perspective about UX](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time)
 
+### Lectures and Talks
+
+- [One Hacker Way by Erik Meijer on Vimeo](https://vimeo.com/110554082)
+
 ### Traffic Safety (don't ask)
 
 - [Cyclists with iPods hear the same as motorists listening to nothing by Carlton Reid](http://www.bikebiz.com/news/read/cyclists-with-ipods-hear-the-same-as-motorists-listening-to-nothing/013329)
