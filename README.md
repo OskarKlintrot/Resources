@@ -50,6 +50,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 ### Authentication
 
 - [10 Things You Should Know about Tokens by Matias Woloski at auth0.com](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/)
+- [Getting Started with Relay, Learn how to get started with a Relay app and how to protect the GraphQL endpoint with JWT authentication by Ryan Chenkie at Auth0](https://auth0.com/blog/getting-started-with-relay/)
 
 ### Real time stuff
 
