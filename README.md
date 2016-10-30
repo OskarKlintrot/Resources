@@ -59,6 +59,11 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Building a REST and real-time API with Express, Feathers and MongoDB by David Luecke](https://blog.feathersjs.com/building-a-rest-and-real-time-api-with-express-feathers-and-mongodb-12071e5417e1#.mojoxxd1n)
 - [Horizon, The realtime JavaScript backend](http://horizon.io/)
 
+### Testing
+
+- [5 step method to make test-driven development and unit testing easy](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
+- [Mongoose models and unit tests: The definitive guide](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
+
 ### Miscellaneous
 
 - [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
