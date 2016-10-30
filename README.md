@@ -72,6 +72,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Choo, Sturdy frontend framework](https://github.com/yoshuawuyts/choo)
 - [Composition in CycleJS, Choo, React and Angular2 by Daviud Waller](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
 - [The state of JavaScript](http://stateofjs.com/)
+- [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 
 ## CSS - Cascading Style Sheets
 
