@@ -57,6 +57,8 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Using RethinkDB with ExpressJS by Craig Walsh](https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs)
 - [Feathers, A minimalist real-time framework for tomorrow's apps](http://feathersjs.com/)
 - [Building a REST and real-time API with Express, Feathers and MongoDB by David Luecke](https://blog.feathersjs.com/building-a-rest-and-real-time-api-with-express-feathers-and-mongodb-12071e5417e1#.mojoxxd1n)
+- [From Mongoose Models to a Real-time API with FeathersJS by Emmanuel Bourmalo](https://blog.feathersjs.com/from-mongoose-models-to-a-real-time-api-with-feathersjs-ec1cc3fb0a5c)
+- [Feathers + Angular 2](https://docs.feathersjs.com/frameworks/angular2.html)
 - [Horizon, The realtime JavaScript backend](http://horizon.io/)
 
 ### Testing
