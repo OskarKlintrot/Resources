@@ -76,6 +76,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [The state of JavaScript](http://stateofjs.com/)
 - [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 - [eslint-config-cleanjs on GitHub](https://github.com/bodil/eslint-config-cleanjs)
+- [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
 
 ## CSS - Cascading Style Sheets
 
