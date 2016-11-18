@@ -92,6 +92,9 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 
+## Testing
+ - [Nightwatch.js - Browser automated testing done easy.](http://nightwatchjs.org/)
+
 
 ## Hacking and tinkering
 
