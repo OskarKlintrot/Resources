@@ -77,6 +77,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 - [eslint-config-cleanjs on GitHub](https://github.com/bodil/eslint-config-cleanjs)
 - [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
+- [Introducing Pokedex.org: a progressive webapp for Pokémon fans by Nolan Lawson](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 
 ## CSS - Cascading Style Sheets
 
