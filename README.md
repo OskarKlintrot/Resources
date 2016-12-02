@@ -109,6 +109,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Editorconfig](http://editorconfig.org/)
 - [Why did IBM's OS/2 project lose to Microsoft, given that IBM had much more resources than Microsoft at that time? on Quora - See first comment to the first answer for perspective about UX](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time)
 - [A Vision of Coding, Without Opening your Eyes by Florian Beijers at Medium](https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec)
+- [GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova on YouTube](https://www.youtube.com/watch?v=qlKZKN7il7c)
 
 ### Lectures and Talks
 
