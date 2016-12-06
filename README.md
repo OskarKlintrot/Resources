@@ -8,6 +8,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [Self-contained .NET Core Applications by Scott Hanselman](http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx)
 
+### ORM
+
+- [Data Points - Dapper, Entity Framework and Hybrid Apps By Julie Lerman](https://msdn.microsoft.com/en-us/magazine/mt703432.aspx?f=255&MSPPError=-2147217396)
+
 ### Debugging
 
 - [7 Ways to Look at the Values of Variables While Debugging in Visual Studio by Kaycee Anderson](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/15/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/)
