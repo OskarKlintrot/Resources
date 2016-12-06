@@ -21,6 +21,15 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [mvc5 global authentication check on Stack Overflow](http://stackoverflow.com/questions/23376477/mvc5-global-authentication-check)
 - [Securing your ASP.NET MVC 4 App and the new AllowAnonymous Attribute by Rick Anderson](https://blogs.msdn.microsoft.com/rickandy/2012/03/23/securing-your-asp-net-mvc-4-app-and-the-new-allowanonymous-attribute/)
 
+### Reflection
+
+- [Making Reflection Fly And Exploring Delegates by Jon Skeet](https://codeblog.jonskeet.uk/2008/08/09/making-reflection-fly-and-exploring-delegates/)
+
+#### Stack Overflow
+
+- [How costly is .NET reflection?](http://stackoverflow.com/a/29599/4826084)
+- [How can you loop over the properties of a class?](http://stackoverflow.com/a/4276597/4826084)
+
 ## Javascript
 
 ### React
