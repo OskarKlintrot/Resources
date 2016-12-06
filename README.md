@@ -51,6 +51,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [create-react-app got 733 transitive dependencies by Dan Abramov on Twitter](https://twitter.com/dan_abramov/status/757279241256009732)
 - [“create-react-app” and the future of creating React applications by Tyler McGinnis at Medium](https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c)
+- [Adding create-react-app scripts to an existing project by Fredrik Anderzon](http://fredrik.anderzon.se/2016/12/04/adding-create-react-app-scripts-to-an-existing-project/)
 
 ### Redux
 
