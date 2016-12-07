@@ -62,6 +62,12 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [“create-react-app” and the future of creating React applications by Tyler McGinnis at Medium](https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c)
 - [Adding create-react-app scripts to an existing project by Fredrik Anderzon](http://fredrik.anderzon.se/2016/12/04/adding-create-react-app-scripts-to-an-existing-project/)
 
+#### Data visualization
+
+- [Victory - React.js components for modular charting and data visualization](https://formidable.com/open-source/victory/)
+- [Uber react-vis](http://uber.github.io/react-vis/)
+- [Recharts - A composable charting library built on React components](http://recharts.org/)
+
 ### Redux
 
 - [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
