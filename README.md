@@ -10,8 +10,13 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ### ORM
 
+#### Performance
+
 - [Data Points - Dapper, Entity Framework and Hybrid Apps By Julie Lerman](https://msdn.microsoft.com/en-us/magazine/mt703432.aspx?f=255&MSPPError=-2147217396)
 - [Dapper.Net coexistence with Entity Framework and caveats by Patrick Desjardins](http://patrickdesjardins.com/blog/dapper-net-coexistence-with-entity-framework-and-caveats)
+- [Entity Framework and slow bulk INSERTs by Rick Strahl (kinda obsolete due to `.AddRange()`)](https://weblog.west-wind.com/posts/2013/Dec/22/Entity-Framework-and-slow-bulk-INSERTs)
+- [Efficient way to do bulk insert/update with Entity Framework on Stack Overflow](http://stackoverflow.com/a/17274826/4826084)
+- [Fastest Way of Inserting in Entity Framework on Stack Overflow](http://stackoverflow.com/a/5942176/4826084)
 
 ### Debugging
 
