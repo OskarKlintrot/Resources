@@ -148,6 +148,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [A Vision of Coding, Without Opening your Eyes by Florian Beijers at Medium](https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec)
 - [GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova on YouTube](https://www.youtube.com/watch?v=qlKZKN7il7c)
 - [Programming Sucks by Peter Welch](https://www.stilldrinking.org/programming-sucks)
+- [The Churn on The Clean Code Blog by Robert C. Martin (Uncle Bob)](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 
 ### Lectures and Talks
 
