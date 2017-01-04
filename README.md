@@ -96,6 +96,13 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [5 step method to make test-driven development and unit testing easy](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
 - [Mongoose models and unit tests: The definitive guide](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
 
+### GraphQL
+
+- [Using GraphQL with MongoDB on Compose](https://www.compose.com/articles/using-graphql-with-mongodb/)
+- [PostGraphQL: PostgreSQL meets GraphQL on Compose](https://www.compose.com/articles/postgraphql-postgresql-meets-graphql)
+- [GraphQL and Authentication by Clay Allsopp on Medium](https://medium.com/the-graphqlhub/graphql-and-authentication-b73aed34bbeb)
+- [GraphQL First: A better way to build modern apps by Matt DeBergalis on Medium](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0)
+
 ### Miscellaneous
 
 - [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
@@ -106,7 +113,6 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [The state of JavaScript](http://stateofjs.com/)
 - [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 - [eslint-config-cleanjs on GitHub](https://github.com/bodil/eslint-config-cleanjs)
-- [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
 - [Introducing Pokedex.org: a progressive webapp for Pokémon fans by Nolan Lawson](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 
 ## CSS - Cascading Style Sheets
