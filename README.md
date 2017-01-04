@@ -149,6 +149,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova on YouTube](https://www.youtube.com/watch?v=qlKZKN7il7c)
 - [Programming Sucks by Peter Welch](https://www.stilldrinking.org/programming-sucks)
 - [The Churn on The Clean Code Blog by Robert C. Martin (Uncle Bob)](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
+- [Project Euler](https://projecteuler.net/)
 
 ### Lectures and Talks
 
