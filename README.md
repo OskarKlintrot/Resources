@@ -44,6 +44,10 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 - [Create delegate for property acessor obtained via reflection when property type unknown](http://stackoverflow.com/a/7239961/4826084)
 - [Reflection Performance - Create Delegate (Properties C#)](http://stackoverflow.com/a/10820869/4826084)
 
+### Miscellaneous
+
+- [Connect(“demos”); // 2016: BikeSharing360](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/)
+
 ## Javascript
 
 ### React
