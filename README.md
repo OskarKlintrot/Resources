@@ -48,6 +48,12 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 - [Connect(“demos”); // 2016: BikeSharing360](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/)
 
+## Typescript
+
+### Miscellaneous
+
+- [Writing Declaration Files for @types by Daniel Rosenwasser on MSDN](https://blogs.msdn.microsoft.com/typescript/2016/12/14/writing-dts-files-for-types/)
+
 ## Javascript
 
 ### React
