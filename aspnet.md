@@ -23,19 +23,6 @@
 * [mvc5 global authentication check on Stack Overflow](http://stackoverflow.com/questions/23376477/mvc5-global-authentication-check)
 * [Securing your ASP.NET MVC 4 App and the new AllowAnonymous Attribute by Rick Anderson](https://blogs.msdn.microsoft.com/rickandy/2012/03/23/securing-your-asp-net-mvc-4-app-and-the-new-allowanonymous-attribute/)
 
-### Reflection
-
-* [Making Reflection Fly And Exploring Delegates by Jon Skeet](https://codeblog.jonskeet.uk/2008/08/09/making-reflection-fly-and-exploring-delegates/)
-* [Reflection vs. compiled expressions vs. delegates - Performance comparision by Daniel Palme](http://www.palmmedia.de/Blog/2012/2/4/reflection-vs-compiled-expressions-vs-delegates-performance-comparision)
-
-#### Stack Overflow
-
-* [How costly is .NET reflection?](http://stackoverflow.com/a/29599/4826084)
-* [How can you loop over the properties of a class?](http://stackoverflow.com/a/4276597/4826084)
-* [C\# Reflection: Fastest Way to Update a Property Value?](http://stackoverflow.com/a/16082916/4826084)
-* [Create delegate for property acessor obtained via reflection when property type unknown](http://stackoverflow.com/a/7239961/4826084)
-* [Reflection Performance - Create Delegate \(Properties C\#\)](http://stackoverflow.com/a/10820869/4826084)
-
 ### Miscellaneous
 
 * [Connect\(“demos”\); // 2016: BikeSharing360](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/)
