@@ -154,7 +154,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ## Developer Tools
 
--[smpt4dev](https://github.com/rnwood/smtp4dev)
+- [smpt4dev](https://github.com/rnwood/smtp4dev)
 
 ## Miscellaneous
 
