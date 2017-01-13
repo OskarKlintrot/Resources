@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [ASP.NET](aspnet.md)
-    * [F\#](x.md)
-    * [C\#](c.md)
+    * [F\#](fsharp.md)
+    * [C\#](csharp.md)
     * [.NET Core](core.md)
 * [Typescript](typescript.md)
 * [Javascript](javascript.md)
