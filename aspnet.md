@@ -1,13 +1,5 @@
 ## ASP.NET
 
-### .NET Core
-
-* [Self-contained .NET Core Applications by Scott Hanselman](http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx)
-
-### FSharp
-
-* [Introduction to Functional Programming with F\# on YouTube](https://www.youtube.com/watch?v=Teak30_pXHk&list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
-
 ### ORM
 
 #### Performance
