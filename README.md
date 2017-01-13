@@ -154,6 +154,7 @@ Inspired by [Pajn](https://github.com/Pajn/collected-thoughts) I decided to star
 
 ## Developer Tools
 
+- [ConEmu](https://conemu.github.io/)
 - [smpt4dev](https://github.com/rnwood/smtp4dev)
 
 ## Miscellaneous
