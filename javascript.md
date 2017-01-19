@@ -33,7 +33,6 @@
 * [Cycle.js, A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
 * [Choo, Sturdy frontend framework](https://github.com/yoshuawuyts/choo)
 * [Composition in CycleJS, Choo, React and Angular2 by David Waller](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
-* [The state of JavaScript](http://stateofjs.com/)
 * [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 * [eslint-config-cleanjs on GitHub](https://github.com/bodil/eslint-config-cleanjs)
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans by Nolan Lawson](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)

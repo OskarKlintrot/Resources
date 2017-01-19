@@ -8,6 +8,7 @@
 * [Typescript](typescript.md)
 * [Javascript](javascript.md)
     * [React - Redux](reactredux.md)
+    * [Stats](stats.md)
 * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
 * [Design and UX](design-and-ux.md)
 * [Architecture and Patterns](architecture-and-patterns.md)
