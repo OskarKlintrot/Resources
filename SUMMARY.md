@@ -11,10 +11,10 @@
     * [Stats](stats.md)
 * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
 * [Design and UX](design-and-ux.md)
-* [Architecture and Patterns](architecture-and-patterns.md)
+* [Computer Science](computer-science.md)
 * [Testing](testing.md)
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Developer Tools](developer-tools.md)
 * [CLI Helper](cli-helper.md)
-* [Miscellaneous](miscellaneous.md)
+* Computer Science
 
