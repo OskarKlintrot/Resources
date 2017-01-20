@@ -16,5 +16,3 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Developer Tools](developer-tools.md)
 * [CLI Helper](cli-helper.md)
-* Computer Science
-
