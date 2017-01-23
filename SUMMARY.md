@@ -12,9 +12,9 @@
 * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
 * [Design and UX](design-and-ux.md)
 * [Computer Science](computer-science.md)
+* [Computer Science](computer-science.md)
 * [Testing](testing.md)
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Developer Tools](developer-tools.md)
-* [CLI Helper](cli-helper.md)
-* Computer Science
+* [Computer Science](computer-science.md)
 
