@@ -14,7 +14,7 @@
 * [Computer Science](computer-science.md)
 * [Testing](testing.md)
 * [Hacking and Tinkering](hacking-and-tinkering.md)
-* [Tools](developer-tools.md)
+* [Tools](tools.md)
 * [CLI Helper](cli-helper.md)
 * [Miscellaneous](miscellaneous.md)
 
