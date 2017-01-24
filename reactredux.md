@@ -3,7 +3,6 @@
 * [Container Components by Learn React with chantastic](https://medium.com/@learnreact/container-components-c0e67432e005#.9yfwzqgc0)
 * [Presentational and Container Components by Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.pi8rkasep)
 * [Building a React/Redux App with JSON Web Token \(JWT\) Authentication by Joshua Slate](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication)
-* [Redux Form, The best way to manage your form state in Redux.](http://redux-form.com/)
 * [React.js Forms: Controlled Components by Loren Stewart](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 
 ### Elemental UI
@@ -29,6 +28,9 @@
 ## Redux
 
 * [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+* [Redux Form, The best way to manage your form state in Redux.](http://redux-form.com/)
+* [Learning redux-form 6 with ES7](https://codepen.io/clindsey/post/learning-redux-form)
+
 
 
 
