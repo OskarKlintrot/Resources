@@ -11,3 +11,4 @@
   * [Burp Suite - The leading toolkit for web application security testing](https://portswigger.net/burp/)
   * [Metasploit - World's most used penetration testing software](https://www.metasploit.com/)
   * [OpenVAS - The world's most advanced Open Source vulnerability scanner and manager](http://www.openvas.org/)
+* [Qualys BrowserCheck](https://browsercheck.qualys.com/)
