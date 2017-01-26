@@ -8,7 +8,7 @@
             "shortName": "oskarsdevresources"
         },
         "edit-link": {
-            "base": "https://github.com/OskarKlintrot/Resources/",
+            "base": "https://github.com/OskarKlintrot/Resources/blob/master/",
             "label": "Edit This Page"
         }
     }
