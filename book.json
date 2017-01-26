@@ -1,5 +1,8 @@
 {
-    "plugins": ["disqus"],
+    "plugins": [
+        "disqus",
+        "edit-link"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "oskarsdevresources"
