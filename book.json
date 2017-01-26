@@ -6,6 +6,10 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "oskarsdevresources"
+        },
+        "edit-link": {
+            "base": "https://github.com/OskarKlintrot/Resources/",
+            "label": "Edit This Page"
         }
     }
 }
