@@ -11,6 +11,7 @@
 
 ### Testing
 
+* [Testing React Applications with Jest on Auth0](https://auth0.com/blog/testing-react-applications-with-jest/)
 * [Getting Started with TDD in React by Dave Ceddia](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
 
 ### create-react-app
