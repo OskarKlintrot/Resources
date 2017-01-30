@@ -5,6 +5,8 @@
 
 ### Security
 
+#### Penetration Testing
+
 * [5 tools recommended by Kryptera.se on Twitter:](https://twitter.com/kryptera/status/823486399626248193)
   * [Kali Linux](https://www.kali.org/)
   * [Nmap Security Scanner](https://nmap.org/)
@@ -12,3 +14,12 @@
   * [Metasploit - World's most used penetration testing software](https://www.metasploit.com/)
   * [OpenVAS - The world's most advanced Open Source vulnerability scanner and manager](http://www.openvas.org/)
 * [Qualys BrowserCheck](https://browsercheck.qualys.com/)
+
+#### Privacy
+
+* [Simple Twitter Profile Analyzer](https://github.com/x0rz/tweets_analyzer)
+* [Creepy - A Geolocation OSINT Tool](http://www.geocreepy.com/)
+
+#### Miscellaneous
+
+* [Truffle Hug](https://github.com/dxa4481/truffleHog)
