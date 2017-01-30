@@ -37,6 +37,7 @@
 * [Styled Components - Visual primitives for the component age](https://styled-components.com/)
 * [eslint-config-cleanjs on GitHub](https://github.com/bodil/eslint-config-cleanjs)
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans by Nolan Lawson](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
-
+* [A Javascript journey with only six characters by Jasper Cashmore](http://www.jazcash.com/a-javascript-journey-with-only-six-characters/)
+* [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
