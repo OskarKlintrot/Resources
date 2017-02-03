@@ -39,5 +39,6 @@
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans by Nolan Lawson](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [A Javascript journey with only six characters by Jasper Cashmore](http://www.jazcash.com/a-javascript-journey-with-only-six-characters/)
 * [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [A tiny guide to non fancy, high-value Node.js things by Yoshua Wuyts on Github](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
 
 
