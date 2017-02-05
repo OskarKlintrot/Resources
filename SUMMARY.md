@@ -17,8 +17,5 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Helper](cli-helper.md)
-
-
-
-
+* [Miscellaneous](miscellaneous.md)
 
