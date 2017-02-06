@@ -12,6 +12,8 @@
 * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
 * [Design and UX](design-and-ux.md)
 * [Computer Science](computer-science.md)
+  * [Architecture and Patterns](computer-science/architecture-and-patterns.md)
+  * [Database](computer-science/database.md)
 * [Security](security.md)
 * [Testing](testing.md)
 * [Hacking and Tinkering](hacking-and-tinkering.md)
