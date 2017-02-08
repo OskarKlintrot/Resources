@@ -10,6 +10,7 @@
 * [Programming Sucks by Peter Welch](https://www.stilldrinking.org/programming-sucks)
 * [The Churn on The Clean Code Blog by Robert C. Martin \(Uncle Bob\)](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 * [Project Euler](https://projecteuler.net/)
+* [Semantic Commit Messages by Jeremy Mack](https://seesparkbox.com/foundry/semantic_commit_messages)
 
 ### Lectures and Talks
 
