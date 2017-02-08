@@ -18,6 +18,6 @@
 * [Testing](testing.md)
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
-* [CLI Helper](cli-helper.md)
+* [CLI Cheat Sheet](cli-cheat-sheet.md)
 * [Miscellaneous](miscellaneous.md)
 
