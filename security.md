@@ -1,5 +1,9 @@
 ## Security
 
+### SAML
+
+* [How SAML Authentication Works by Prosper Otemuyiwa on Auth0](https://auth0.com/blog/how-saml-authentication-works)
+
 ### Token
 
 * [10 Things You Should Know about Tokens on Auth0](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
