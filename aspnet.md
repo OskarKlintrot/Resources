@@ -10,6 +10,10 @@
 * [Efficient way to do bulk insert/update with Entity Framework on Stack Overflow](http://stackoverflow.com/a/17274826/4826084)
 * [Fastest Way of Inserting in Entity Framework on Stack Overflow](http://stackoverflow.com/a/5942176/4826084)
 
+##### Benchmarking
+
+* [BenchmarkDotNet](http://benchmarkdotnet.org/)
+
 ### Debugging
 
 * [7 Ways to Look at the Values of Variables While Debugging in Visual Studio by Kaycee Anderson](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/15/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/)
