@@ -27,6 +27,10 @@
 * [GraphQL and Authentication by Clay Allsopp on Medium](https://medium.com/the-graphqlhub/graphql-and-authentication-b73aed34bbeb)
 * [GraphQL First: A better way to build modern apps by Matt DeBergalis on Medium](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0)
 
+### Documentation
+
+* [jsdoc - An API documentation generator for JavaScript](https://www.npmjs.com/package/jsdoc)
+
 ### Miscellaneous
 
 * [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)

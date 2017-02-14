@@ -26,6 +26,10 @@
 * [Uber react-vis](http://uber.github.io/react-vis/)
 * [Recharts - A composable charting library built on React components](http://recharts.org/)
 
+### Documentation
+
+* [React Styleguidist - Style guide generator & component workbench for React](https://github.com/styleguidist/react-styleguidist)
+
 ## Redux
 
 * [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
