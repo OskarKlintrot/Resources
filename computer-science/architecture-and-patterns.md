@@ -14,3 +14,7 @@
 * [Docker Compose Official Documentation](https://docs.docker.com/compose/)
 * [SSO with Nginx auth_request module by Benjamin Cremer](https://developers.shopware.com/blog/2015/03/02/sso-with-nginx-authrequest-module/)
 * [Development with Docker Compose](http://howtocookmicroservices.com/docker-compose/)
+
+#### Lectures
+
+* [Docker Tutorials playlist by LearnCode.academy on YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
