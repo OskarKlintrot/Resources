@@ -5,6 +5,7 @@
 
 ### Microservices
 
+* [MonolithFirst by Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Introduction to Microservices by Chris Richardson on Nginx.com](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Sharing micro-service authentication using Nginx, Passport and Redis by Dejan Glozic](https://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/)
 
