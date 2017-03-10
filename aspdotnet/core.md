@@ -3,6 +3,7 @@
 ### Authentication
 
 * [Using Cookie Middleware without ASP.NET Core Identity on Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/cookie)
+* [ASP.NET Core Cookie Middleware & Policy Based Authorization by Arif Yayalar](https://www.linkedin.com/pulse/aspnet-core-cookie-middleware-policy-based-arif-yayalar)
 
 #### Andrew Lock's serie on authentication and authorisation
 
