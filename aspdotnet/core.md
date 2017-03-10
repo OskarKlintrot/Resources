@@ -28,4 +28,3 @@
 
 * [Building Single Page Applications on ASP.NET Core with JavaScriptServices by Jeffrey T. Fritz on MSDN](https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/)
 * [POST-REDIRECT-GET using TempData in ASP.NET Core by Andrew Lock](https://andrewlock.net/post-redirect-get-using-tempdata-in-asp-net-core/)
-* []()
