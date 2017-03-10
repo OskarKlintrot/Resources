@@ -17,7 +17,7 @@
 ### Services, DI and Configuration
 
 * [Configuring environment specific services for dependency injection in ASP.NET Core by Andrew Lock](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
-* [Configuring environment specific services in ASP.NET Core - Part 2](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core-part-2/)
+* [Configuring environment specific services in ASP.NET Core - Part 2 by Andrew Lock](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core-part-2/)
 
 ### Docker
 
