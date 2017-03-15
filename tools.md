@@ -2,6 +2,7 @@
 
 * [ConEmu](https://conemu.github.io/)
 * [smpt4dev](https://github.com/rnwood/smtp4dev)
+* [Catlight - Status notifier for developers](https://catlight.io/)
 
 ### Security
 
