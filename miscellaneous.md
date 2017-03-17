@@ -19,6 +19,7 @@
 ### Traffic Safety \(don't ask\)
 
 * [Cyclists with iPods hear the same as motorists listening to nothing by Carlton Reid](http://www.bikebiz.com/news/read/cyclists-with-ipods-hear-the-same-as-motorists-listening-to-nothing/013329)
+* [Why it makes sense to bike without a helmet by Howie Chong](http://www.howiechong.com/journal/2014/2/bike-helmets)
 
 ### Society
 
