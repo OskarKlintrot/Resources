@@ -4,6 +4,7 @@
 * [Presentational and Container Components by Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.pi8rkasep)
 * [Building a React/Redux App with JSON Web Token \(JWT\) Authentication by Joshua Slate](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication)
 * [React.js Forms: Controlled Components by Loren Stewart](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
+* [React Interview Questions by Tyler McGinnis](https://dev.to/tylermcginnis/react-interview-questions)
 
 ### Elemental UI
 

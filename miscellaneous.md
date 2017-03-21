@@ -11,6 +11,8 @@
 * [The Churn on The Clean Code Blog by Robert C. Martin \(Uncle Bob\)](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 * [Project Euler](https://projecteuler.net/)
 * [Semantic Commit Messages by Jeremy Mack](https://seesparkbox.com/foundry/semantic_commit_messages)
+* [How to Make Mistakes in Python on O'Reilly](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp?intcmp=il-prog-free-product-lgen_python_mistakes)
+* [To slash or not to slash on Google Webmaster Central Blog](https://webmasters.googleblog.com/2010/04/to-slash-or-not-to-slash.html)
 
 ### Lectures and Talks
 

@@ -1,5 +1,10 @@
 ## ASP.NET
 
+### Nodejs Tools
+
+* [Test Explorer](https://github.com/Microsoft/nodejstools/wiki/Test-Explorer)
+* [Test Framework Extensibility](https://github.com/Microsoft/nodejstools/wiki/Test-Framework-Extensibility)
+
 ### ORM
 
 #### Performance

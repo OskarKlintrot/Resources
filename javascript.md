@@ -1,5 +1,9 @@
 ## Javascript
 
+### Functional Programming
+
+* [Functional JavaScript: Function Composition For Every Day Use by Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10#.1dgqhwici)
+
 ### Progressive Web Apps
 
 * Progressive Web Apps with React.js by Addy Osmani on Medium
@@ -39,6 +43,10 @@
 
 * [jsdoc - An API documentation generator for JavaScript](https://www.npmjs.com/package/jsdoc)
 
+### Node
+
+* [Before you bury yourself in packages, learn the Node.js runtime itself by Samer Buna](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
+
 ### Miscellaneous
 
 * [KeystoneJS, Node.js CMS & Web Application Platform](http://keystonejs.com/)
@@ -52,5 +60,5 @@
 * [A Javascript journey with only six characters by Jasper Cashmore](http://www.jazcash.com/a-javascript-journey-with-only-six-characters/)
 * [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [A tiny guide to non fancy, high-value Node.js things by Yoshua Wuyts on Github](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
-
+* [Stampit](https://github.com/stampit-org/stampit)
 
