@@ -17,6 +17,7 @@
 ### Lectures and Talks
 
 * [One Hacker Way by Erik Meijer on Vimeo](https://vimeo.com/110554082)
+* [CppCon 2014: Mike Acton "Data-Oriented Design and C++" on YouTube](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 
 ### Traffic Safety \(don't ask\)
 
