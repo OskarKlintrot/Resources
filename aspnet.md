@@ -1,6 +1,6 @@
 ## ASP.NET
 
-### Nodejs Tools
+### Node.js Tools
 
 * [Test Explorer](https://github.com/Microsoft/nodejstools/wiki/Test-Explorer)
 * [Test Framework Extensibility](https://github.com/Microsoft/nodejstools/wiki/Test-Framework-Extensibility)
