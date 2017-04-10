@@ -1,5 +1,6 @@
 ## Tools
 
+* [ILSpy - Open-source .NET assembly browser and decompiler](http://ilspy.net/)
 * [ConEmu](https://conemu.github.io/)
 * [smpt4dev](https://github.com/rnwood/smtp4dev)
 * [Catlight - Status notifier for developers](https://catlight.io/)
