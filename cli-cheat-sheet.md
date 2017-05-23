@@ -27,3 +27,9 @@ Git pull and rebase:
 ## Powershell
 
 [`> Get-ChildItem -Filter “*current*” -Recurse | Rename-Item -NewName {$_.name -replace ‘current’,’old’ }`](https://blogs.technet.microsoft.com/heyscriptingguy/2013/11/22/use-powershell-to-rename-files-in-bulk/)
+
+## Docker for Windows
+
+Run a docker container (in this case ruby), mount current directory to `/app` and open bash:
+
+`> docker run -v ${pwd}:/app -it ruby /bin/bash`
