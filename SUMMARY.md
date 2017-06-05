@@ -20,4 +20,5 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Cheat Sheet](cli-cheat-sheet.md)
+* [Miscellaneous](miscellaneous.md)
 
