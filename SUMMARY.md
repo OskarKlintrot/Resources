@@ -6,7 +6,8 @@
   * [C\#](aspdotnet/csharp.md)
   * [.NET Core](aspdotnet/core.md)
 * [Typescript](typescript.md)
-* [Javascript](javascript.md)
+* [Javascript](javascript/javascript.md)
+  * [Angular](javascript/angular.md)
   * [React - Redux](javascript/reactredux.md)
   * [Stats](javascript/stats.md)
 * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
@@ -19,5 +20,4 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Cheat Sheet](cli-cheat-sheet.md)
-* [Miscellaneous](miscellaneous.md)
 

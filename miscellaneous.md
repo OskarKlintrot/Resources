@@ -13,6 +13,7 @@
 * [Semantic Commit Messages by Jeremy Mack](https://seesparkbox.com/foundry/semantic_commit_messages)
 * [How to Make Mistakes in Python on O'Reilly](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp?intcmp=il-prog-free-product-lgen_python_mistakes)
 * [To slash or not to slash on Google Webmaster Central Blog](https://webmasters.googleblog.com/2010/04/to-slash-or-not-to-slash.html)
+* [RFC for the 7XX Range of HTTP Status codes - Developer Errors](https://github.com/joho/7XX-rfc)
 
 ### Lectures and Talks
 
