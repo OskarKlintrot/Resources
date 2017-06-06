@@ -3,6 +3,7 @@
 ### Progressive Web Apps
 
 * [Progressive web apps with angular 2+](https://houssein.me/progressive-angular-applications)
+* [Fast Offline Angular Apps with Service Workers by Cory Rylan](https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers)
 
 ### RxJS
 
