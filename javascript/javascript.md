@@ -6,6 +6,7 @@
 
 ### Progressive Web Apps
 
+* [Workbox – JavaScript Libraries for Progressive Web Apps](https://workboxjs.org/)
 * Progressive Web Apps with React.js by Addy Osmani on Medium
   * [Part 1 — Introduction ](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
   * [Part 2 — Page Load Performance](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2)
