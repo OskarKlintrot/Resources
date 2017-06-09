@@ -1,5 +1,10 @@
 ## Angular
 
+### Angular Material
+
+* [The complete guide to Angular Material Themes by Tomas Trajan](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
+* [Angular, ngrx and Angular Material Starter by Tomas Trajan on Github](https://github.com/tomastrajan/angular-ngrx-material-starter)
+
 ### Progressive Web Apps
 
 * [Progressive web apps with angular 2+](https://houssein.me/progressive-angular-applications)
