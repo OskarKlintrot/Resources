@@ -7,6 +7,7 @@
 * [Editorconfig](http://editorconfig.org/)
 * [Why did IBM's OS/2 project lose to Microsoft, given that IBM had much more resources than Microsoft at that time? on Quora - See first comment to the first answer for perspective about UX](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time)
 * [A Vision of Coding, Without Opening your Eyes by Florian Beijers at Medium](https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec)
+* [How a Blind Developer uses Visual Studio on YouTube](https://www.youtube.com/watch?v=iWXebEeGwn0)
 * [GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova on YouTube](https://www.youtube.com/watch?v=qlKZKN7il7c)
 * [Project Euler](https://projecteuler.net/)
 * [Semantic Commit Messages by Jeremy Mack](https://seesparkbox.com/foundry/semantic_commit_messages)
