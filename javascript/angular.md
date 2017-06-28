@@ -13,6 +13,7 @@
 ### RxJS
 
 * [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
+* [Wait for an async operation in onNext of RxJS Observable on Stack Overflow](https://stackoverflow.com/questions/21876275/wait-for-an-async-operation-in-onnext-of-rxjs-observable)
 
 ### Miscellaneous {#miscellaneous}
 
