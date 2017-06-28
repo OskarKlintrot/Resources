@@ -13,7 +13,7 @@
 ### RxJS
 
 * [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
-* [Wait for an async operation in onNext of RxJS Observable on Stack Overflow](https://stackoverflow.com/questions/21876275/wait-for-an-async-operation-in-onnext-of-rxjs-observable)
+* [How to return Observable after some Promise get resolved in Ionic 2/Angular 2? on Stack Overflow](https://stackoverflow.com/questions/41585514/how-to-return-observable-after-some-promise-get-resolved-in-ionic-2-angular-2)
 
 ### Miscellaneous {#miscellaneous}
 
