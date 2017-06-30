@@ -37,5 +37,7 @@
 
 * [Is Sweden Invaded by “Muslim Rapists”? - TL;DR: Of course not!](http://www.loonwatch.com/2017/02/is-sweden-invaded-by-muslim-rapists/)
 
+### Maps
 
+* [Lantmäteriets kartor](https://kso.etjanster.lantmateriet.se/)
 
