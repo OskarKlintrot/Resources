@@ -24,6 +24,13 @@ Git pull and rebase:
 > git commit -c ORIG_HEAD                                   (5)
 ```
 
+[Find and restore a deleted file:](https://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
+
+```
+> git rev-list -n 1 HEAD -- <file_path>                     (1)
+> git checkout <deleting_commit>^ -- <file_path>            (2)
+```
+
 ## Powershell
 
 [`> Get-ChildItem -Filter “*current*” -Recurse | Rename-Item -NewName {$_.name -replace ‘current’,’old’ }`](https://blogs.technet.microsoft.com/heyscriptingguy/2013/11/22/use-powershell-to-rename-files-in-bulk/)
