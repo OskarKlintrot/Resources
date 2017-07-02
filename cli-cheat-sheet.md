@@ -31,6 +31,14 @@ Git pull and rebase:
 > git checkout <deleting_commit>^ -- <file_path>            (2)
 ```
 
+[Remove untracked branches (replace `-D` with `-d` to only remove fully merged branches):](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore)
+
+```
+> git fetch --prune
+> bash
+$ git branch -r | awk '{print $1}' | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin) | awk '{print $1}' | xargs git branch -D
+```
+
 ## Powershell
 
 [`> Get-ChildItem -Filter “*current*” -Recurse | Rename-Item -NewName {$_.name -replace ‘current’,’old’ }`](https://blogs.technet.microsoft.com/heyscriptingguy/2013/11/22/use-powershell-to-rename-files-in-bulk/)
