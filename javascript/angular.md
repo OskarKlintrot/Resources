@@ -9,6 +9,7 @@
 
 * [Progressive web apps with angular 2+](https://houssein.me/progressive-angular-applications)
 * [Fast Offline Angular Apps with Service Workers by Cory Rylan](https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers)
+* [Transforming an existing Angular application into a Progressive Web App by C. Denis on Medium](https://medium.com/@cdeniz/transforming-an-existing-angular-application-into-a-progressive-web-app-d48869ba391f)
 
 ### RxJS
 
