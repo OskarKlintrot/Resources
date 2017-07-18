@@ -17,6 +17,11 @@
 * [Modifying the UI based on user authorisation in ASP.NET Core](https://andrewlock.net/modifying-the-ui-based-on-user-authorisation-in-asp-net-core/)
 * [Resource-based authorisation in ASP.NET Core](https://andrewlock.net/resource-specific-authorisation-in-asp-net-core/)
 
+### Caching
+
+* [Adding Cache-Control headers to Static Files in ASP.NET Core by Andrew Lock](https://andrewlock.net/adding-cache-control-headers-to-static-files-in-asp-net-core/)
+* [Implement HTTP Cache (ETag) in ASP.NET Core Web API on StackOverflow](https://stackoverflow.com/questions/35458737/implement-http-cache-etag-in-asp-net-core-web-api)
+
 ### Services, DI and Configuration
 
 * [Configuring environment specific services for dependency injection in ASP.NET Core by Andrew Lock](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
