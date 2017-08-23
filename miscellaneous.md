@@ -27,11 +27,15 @@
 * [One Hacker Way by Erik Meijer on Vimeo](https://vimeo.com/110554082)
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++" on YouTube](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 
-### Traffic Safety \(don't ask\)
+### Traffic Safety
 
 * [Cyclists with iPods hear the same as motorists listening to nothing by Carlton Reid](http://www.bikebiz.com/news/read/cyclists-with-ipods-hear-the-same-as-motorists-listening-to-nothing/013329)
 * [Why it makes sense to bike without a helmet by Howie Chong](http://www.howiechong.com/journal/2014/2/bike-helmets)
 * [Feds withdraw claim that bike helmets are 85 percent effective by Jim Titus](http://www.waba.org/blog/2013/06/feds-withdraw-claim-that-bike-helmets-are-85-percent-effective/)
+
+### Traffic Planing
+
+* [De flesta resor är kortare än en mil by Erik Sandblom on Ecoprofile](http://www.ecoprofile.se/thread-3240-De-flesta-resor-ar-kortare-an-en-mil.html)
 
 ### Society
 
