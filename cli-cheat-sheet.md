@@ -16,7 +16,7 @@ Git pull and rebase:
 
 [Undo latest unpushed commit:](http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git)
 
-```
+```Powershell
 > git commit -m "Something terribly misguided"              (1)
 > git reset HEAD~                                           (2)
 << edit files as necessary >>                               (3)
@@ -26,17 +26,23 @@ Git pull and rebase:
 
 [Find and restore a deleted file:](https://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
 
-```
+```Powershell
 > git rev-list -n 1 HEAD -- <file_path>                     (1)
 > git checkout <deleting_commit>^ -- <file_path>            (2)
 ```
 
 [Remove untracked branches (replace `-D` with `-d` to only remove fully merged branches):](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore)
 
-```
+```Powershell
 > git fetch --prune
 > bash
 $ git branch -r | awk '{print $1}' | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin) | awk '{print $1}' | xargs git branch -D
+```
+
+Staging Patches:
+
+```Powershell
+> git add -i # Choose option "5" or "p" as in "patch"
 ```
 
 ## Powershell
