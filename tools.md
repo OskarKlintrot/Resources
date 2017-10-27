@@ -25,3 +25,4 @@
 #### Miscellaneous
 
 * [Truffle Hug](https://github.com/dxa4481/truffleHog)
+* [Generate C# class from database table](https://gist.github.com/OskarKlintrot/e88c5693f086079f05196c5b6f23b15c)
