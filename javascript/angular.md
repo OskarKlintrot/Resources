@@ -21,6 +21,5 @@
 * [Angular 2/4 JWT Authentication Example & Tutorial by Jason Watmore](http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial)
 * [How to create a Drag and Drop file directive in angular2 with angular-cli [Part 1]](https://scotch.io/@minrock/how-to-create-a-drag-and-drop-file-directive-in-angular2-with-angular-cli-part-1)
 * [How to create a Drag and Drop file directive in angular2 with angular-cli [Part 2]](https://scotch.io/@minrock/how-to-create-a-drag-and-drop-file-directive-in-angular2-with-angular-cli-part-2)
-
-
-
+* [The better way to write an API service in Angular 4 on Medium](https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48)
+* [Version 5.0.0 of Angular Now Available on blog.angular.io](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced)
