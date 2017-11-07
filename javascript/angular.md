@@ -23,3 +23,4 @@
 * [How to create a Drag and Drop file directive in angular2 with angular-cli [Part 2]](https://scotch.io/@minrock/how-to-create-a-drag-and-drop-file-directive-in-angular2-with-angular-cli-part-2)
 * [The better way to write an API service in Angular 4 on Medium](https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48)
 * [Version 5.0.0 of Angular Now Available on blog.angular.io](https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced)
+* [Preload data before app init in Angular By Michał Dymel](https://devblog.dymel.pl/2017/10/17/angular-preload/)
