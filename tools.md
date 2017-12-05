@@ -5,6 +5,11 @@
 * [smpt4dev](https://github.com/rnwood/smtp4dev)
 * [Catlight - Status notifier for developers](https://catlight.io/)
 
+### Online
+
+* [SQL Joins Visualizer](http://sql-joins.leopard.in.ua/)
+* [Matrix Multiplication](http://matrixmultiplication.xyz/)
+
 ### Security
 
 #### Penetration Testing
