@@ -14,6 +14,19 @@ Git pull and rebase:
 
 `> git pull --rebase`
 
+[Config Git to do a stash before pull and rebase automatically:](https://stackoverflow.com/a/30209750/4826084)
+
+```Powershell
+# Once
+> git pull --rebase --autostash
+```
+
+```Powershell
+# Permanent
+> git config pull.rebase true
+> git config rebase.autoStash true
+```
+
 [Undo latest unpushed commit:](http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git)
 
 ```Powershell
