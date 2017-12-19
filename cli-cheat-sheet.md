@@ -2,6 +2,8 @@
 
 ### Git
 
+[Oh shit, git!](http://ohshitgit.com/)
+
 Clear all unstaged changes, including ignored files:
 
 `> git clean -dfx`
