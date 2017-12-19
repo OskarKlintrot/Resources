@@ -9,6 +9,7 @@
 
 * [SQL Joins Visualizer](http://sql-joins.leopard.in.ua/)
 * [Matrix Multiplication](http://matrixmultiplication.xyz/)
+* [Fast – Good – Cheap](http://fastgood.cheap/)
 
 ### Security
 
