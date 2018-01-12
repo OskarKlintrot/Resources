@@ -37,6 +37,9 @@
 
 * [De flesta resor är kortare än en mil by Erik Sandblom on Ecoprofile](http://www.ecoprofile.se/thread-3240-De-flesta-resor-ar-kortare-an-en-mil.html)
 
+### Audio Engineering
+* [Credland Aduio - Pink noise mix reference generator](https://www.credland.net/pink/)
+
 ### Society
 
 * [Is Sweden Invaded by “Muslim Rapists”? - TL;DR: Of course not!](http://www.loonwatch.com/2017/02/is-sweden-invaded-by-muslim-rapists/)
