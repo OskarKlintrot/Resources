@@ -14,6 +14,7 @@
 * [How to Make Mistakes in Python on O'Reilly](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp?intcmp=il-prog-free-product-lgen_python_mistakes)
 * [To slash or not to slash on Google Webmaster Central Blog](https://webmasters.googleblog.com/2010/04/to-slash-or-not-to-slash.html)
 * [You Are Not Google by Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
+* [Stack Exchange Performance (Tech Stack)](https://stackexchange.com/performance)
 
 ### For fun
 
