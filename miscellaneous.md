@@ -40,6 +40,7 @@
 
 ### Audio Engineering
 * [Credland Aduio - Pink noise mix reference generator](https://www.credland.net/pink/)
+* [FFT Spectrum Analyzer – SPAN](http://www.voxengo.com/group/free-vst-plugin-download/)
 
 ### Society
 
