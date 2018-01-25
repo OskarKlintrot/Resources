@@ -5,7 +5,7 @@
 * [Original Apollo 11 Guidance Computer \(AGC\) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
 * [The definitive guide to form-based website authenticationon Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Editorconfig](http://editorconfig.org/)
-* [Why did IBM's OS/2 project lose to Microsoft, given that IBM had much more resources than Microsoft at that time? on Quora - See first comment to the first answer for perspective about UX](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time)
+* [Why did IBM's OS/2 project lose to Microsoft, given that IBM had much more resources than Microsoft at that time? on Quora](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time/answer/Dave-Whittle/comment/10605908)
 * [A Vision of Coding, Without Opening your Eyes by Florian Beijers at Medium](https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec)
 * [How a Blind Developer uses Visual Studio on YouTube](https://www.youtube.com/watch?v=iWXebEeGwn0)
 * [GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova on YouTube](https://www.youtube.com/watch?v=qlKZKN7il7c)
