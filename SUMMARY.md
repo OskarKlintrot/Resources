@@ -5,6 +5,7 @@
   * [F\#](aspdotnet/fsharp.md)
   * [C\#](aspdotnet/csharp.md)
   * [.NET Core](aspdotnet/core.md)
+* [\(T-\)SQL](t-sql.md)
 * [Typescript](typescript.md)
 * [Javascript](javascript/javascript.md)
   * [Angular](javascript/angular.md)
@@ -21,5 +22,5 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Cheat Sheet](cli-cheat-sheet.md)
-* [Miscellaneous](miscellaneous.md)
+* \(T-\)SQL
 
