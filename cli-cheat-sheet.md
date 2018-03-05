@@ -66,6 +66,14 @@ Undo Patches:
 > git checkout -p <optional filename(s)>
 ```
 
+Replace remote with local branch:
+
+```Powershell
+> git checkout BranchToPushTo
+> git reset --hard BranchToReplaceWith
+> git push --force
+```
+
 ## Powershell
 
 [`> Get-ChildItem -Filter “*current*” -Recurse | Rename-Item -NewName {$_.name -replace ‘current’,’old’ }`](https://blogs.technet.microsoft.com/heyscriptingguy/2013/11/22/use-powershell-to-rename-files-in-bulk/)
