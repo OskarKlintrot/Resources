@@ -38,9 +38,12 @@
 
 * [De flesta resor är kortare än en mil by Erik Sandblom on Ecoprofile](http://www.ecoprofile.se/thread-3240-De-flesta-resor-ar-kortare-an-en-mil.html)
 
-### Audio Engineering
+### Audio Stuff
 * [Credland Aduio - Pink noise mix reference generator](https://www.credland.net/pink/)
 * [FFT Spectrum Analyzer – SPAN](http://www.voxengo.com/group/free-vst-plugin-download/)
+* [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
+* [Imitone](http://imitone.com/)
+* [MIDI Guitar 2](http://www.jamorigin.com/)
 
 ### Society
 
