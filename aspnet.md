@@ -14,6 +14,7 @@
 
 #### Performance
 
+* [Entity Framework Performance Optimization by Jude O'Kelly](http://judeokelly.com/entity-framework-performance-optimization/)
 * [Data Points - Dapper, Entity Framework and Hybrid Apps By Julie Lerman](https://msdn.microsoft.com/en-us/magazine/mt703432.aspx?f=255&MSPPError=-2147217396)
 * [Dapper.Net coexistence with Entity Framework and caveats by Patrick Desjardins](http://patrickdesjardins.com/blog/dapper-net-coexistence-with-entity-framework-and-caveats)
 * [Entity Framework and slow bulk INSERTs by Rick Strahl \(kinda obsolete due to `.AddRange()`\)](https://weblog.west-wind.com/posts/2013/Dec/22/Entity-Framework-and-slow-bulk-INSERTs)
