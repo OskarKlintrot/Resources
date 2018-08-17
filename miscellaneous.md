@@ -37,6 +37,7 @@
 ### Traffic Planing
 
 * [De flesta resor är kortare än en mil by Erik Sandblom on Ecoprofile](http://www.ecoprofile.se/thread-3240-De-flesta-resor-ar-kortare-an-en-mil.html)
+* [Effects of e-bikes on bicycle use and mode share](https://www.sciencedirect.com/science/article/pii/S1361920915000140)
 
 ### Audio Stuff
 * [Credland Aduio - Pink noise mix reference generator](https://www.credland.net/pink/)
