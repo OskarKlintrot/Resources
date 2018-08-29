@@ -38,6 +38,7 @@
 
 * [De flesta resor är kortare än en mil by Erik Sandblom on Ecoprofile](http://www.ecoprofile.se/thread-3240-De-flesta-resor-ar-kortare-an-en-mil.html)
 * [Effects of e-bikes on bicycle use and mode share](https://www.sciencedirect.com/science/article/pii/S1361920915000140)
+* [Låt oss gå till botten – hur bra är elcykelpremien? by Lorentz Tovatt](http://lorentztovatt.se/2018/08/28/lat-oss-ga-till-botten-hur-bra-ar-elcykelpremien/)
 
 ### Audio Stuff
 * [Credland Aduio - Pink noise mix reference generator](https://www.credland.net/pink/)
