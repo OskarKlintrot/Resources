@@ -46,6 +46,11 @@ Git pull and rebase:
 > git checkout <deleting_commit>^ -- <file_path>            (2)
 ```
 
+[Remove all local branches that have been merged into the branch currently checked out:](https://stackoverflow.com/a/43334157/4826084)
+```Powershell
+> git branch --merged | ? {$_[0] -ne '*'} | % {$_.trim()} | % {git branch -d $_}
+```
+
 [Remove untracked branches (replace `-D` with `-d` to only remove fully merged branches):](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore)
 
 ```Powershell
