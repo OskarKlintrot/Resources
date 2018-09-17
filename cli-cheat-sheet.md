@@ -51,7 +51,7 @@ Git pull and rebase:
 > git branch --merged | ? {$_[0] -ne '*'} | % {$_.trim()} | % {git branch -d $_}
 ```
 
-[Remove untracked branches (replace `-D` with `-d` to only remove fully merged branches):](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore)
+[Remove untracked branches (replace `-D` with `-d` to only remove fully merged branches:](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore)
 
 ```Powershell
 > git fetch --prune
