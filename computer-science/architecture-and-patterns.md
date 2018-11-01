@@ -8,6 +8,8 @@
 * [MonolithFirst by Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Introduction to Microservices by Chris Richardson on Nginx.com](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Sharing micro-service authentication using Nginx, Passport and Redis by Dejan Glozic](https://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/)
+* [Using the Retry pattern to make your cloud application more resilient by Rob Caron](https://azure.microsoft.com/en-us/blog/using-the-retry-pattern-to-make-your-cloud-application-more-resilient/?cdn=disable)
+* [.NET Microservices: Architecture for Containerized .NET Applications e-book](https://aka.ms/microservicesebook)
 
 ### Docker
 
