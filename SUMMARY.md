@@ -22,5 +22,4 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Cheat Sheet](cli-cheat-sheet.md)
-* [\(T-\)SQL](t-sql.md)
 * [Miscellaneous](miscellaneous.md)
