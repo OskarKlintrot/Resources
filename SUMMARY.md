@@ -11,6 +11,7 @@
   * [Angular](javascript/angular.md)
   * [React - Redux](javascript/reactredux.md)
   * [Stats](javascript/stats.md)
+* [Progressive Web Apps](progressive-web-apps.md)
 * [Design and UX](design-and-ux.md)
   * [HTML](html.md)
   * [CSS - Cascading Style Sheets](css---cascading-style-sheets.md)
@@ -22,4 +23,5 @@
 * [Hacking and Tinkering](hacking-and-tinkering.md)
 * [Tools](tools.md)
 * [CLI Cheat Sheet](cli-cheat-sheet.md)
-* [Miscellaneous](miscellaneous.md)
+* Progressive Web Apps
+
