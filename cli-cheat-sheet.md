@@ -85,7 +85,14 @@ Replace remote with local branch:
 
 Listen to new lines in a log fil containing a specific regex:
 
-`> Get-Content .\application_2017-05-30.log -Wait -Tail 0 | Select-String '.+(UserRepository).+'`
+```Powershell
+> Get-Content .\application_2017-05-30.log -Wait -Tail 0 | Select-String '.+(UserRepository).+'
+```
+
+Run first line only of a script:
+```powershell
+> Get-Content <script> -First 1 | Invoke-Expression
+```
 
 ## Docker for Windows
 
