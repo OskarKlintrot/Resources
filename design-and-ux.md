@@ -2,6 +2,8 @@
 
 * [Design Seeds Website](http://www.design-seeds.com/)
 * [VisBug Chrome Extensions](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+* [Figma](https://www.figma.com/)
+* [Font Flipper](https://fontflipper.com/)
 
 ### Web Accessibility
 
