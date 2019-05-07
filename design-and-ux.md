@@ -1,6 +1,7 @@
 ## Design and UX
 
 * [Design Seeds Website](http://www.design-seeds.com/)
+* [VisBug Chrome Extensions](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 
 ### Web Accessibility
 
