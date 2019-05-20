@@ -13,5 +13,6 @@
 * [Create delegate for property acessor obtained via reflection when property type unknown](http://stackoverflow.com/a/7239961/4826084)
 * [Reflection Performance - Create Delegate \(Properties C\#\)](http://stackoverflow.com/a/10820869/4826084)
 
+### Miscellaneous
 
-
+* [Asynchronous Programming by David Fowler](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
