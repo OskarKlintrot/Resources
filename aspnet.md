@@ -43,14 +43,14 @@
 
 #### Data Points by Julie Lerman
 
-* [DDD-Friendlier EF Core 2.0](https://msdn.microsoft.com/magazine/mt842503)
+* [DDD-Friendlier EF Core 2.0, Part 1](https://msdn.microsoft.com/magazine/mt842503)
 * [DDD-Friendlier EF Core 2.0, Part 2](https://msdn.microsoft.com/magazine/mt826347)
 * [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 1](https://msdn.microsoft.com/magazine/dn342868)
 * [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 2](https://msdn.microsoft.com/magazine/dn385704)
 * [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 3](https://msdn.microsoft.com/magazine/dn451438)
-* [A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts](https://msdn.microsoft.com/en-us/magazine/dn802601)
+* [A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts, Part 1](https://msdn.microsoft.com/en-us/magazine/dn802601)
 * [A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts, Part 2](https://msdn.microsoft.com/en-us/magazine/dn857357)
-* [Shrink EF Models with DDD Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/jj883952)
+* [Shrink EF Models with DDD Bounded Contexts](https://msdn.microsoft.com/en-us/magazine/jj883952)
 
 ### Security
 
