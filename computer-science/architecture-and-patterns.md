@@ -2,6 +2,7 @@
 
 * [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 * [Serverless Framework](https://serverless.com/)
+* [Design Patterns at Source Making](https://sourcemaking.com/design_patterns)
 
 ### Microservices
 
@@ -21,3 +22,6 @@
 #### Lectures
 
 * [Docker Tutorials playlist by LearnCode.academy on YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
+
+### Miscellaneous
+
