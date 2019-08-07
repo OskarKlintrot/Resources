@@ -37,6 +37,18 @@
 
 * [7 Ways to Look at the Values of Variables While Debugging in Visual Studio by Kaycee Anderson](https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/15/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/)
 
+### Domain-Driven Design
+
+* [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
+
+#### Entity Framework
+
+* [Data Points : A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/dn802601)
+* [Data Points : A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts, Part 2 by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/dn857357)
+* [DDD-Friendlier EF Core 2.0 by Julie Lerman](https://msdn.microsoft.com/magazine/mt842503)
+* [DDD-Friendlier EF Core 2.0, Part 2 by Julie Lerman](https://msdn.microsoft.com/magazine/mt826347)
+* [Data Points - Shrink EF Models with DDD Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/jj883952)
+
 ### Security
 
 * [Building Secure Apps for Windows IoT Core by Windows Apps Team](https://blogs.windows.com/buildingapps/2016/07/20/building-secure-apps-for-windows-iot-core/)
