@@ -41,13 +41,16 @@
 
 * [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
 
-#### Entity Framework
+#### Data Points by Julie Lerman
 
-* [Data Points : A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/dn802601)
-* [Data Points : A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts, Part 2 by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/dn857357)
-* [DDD-Friendlier EF Core 2.0 by Julie Lerman](https://msdn.microsoft.com/magazine/mt842503)
-* [DDD-Friendlier EF Core 2.0, Part 2 by Julie Lerman](https://msdn.microsoft.com/magazine/mt826347)
-* [Data Points - Shrink EF Models with DDD Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/jj883952)
+* [DDD-Friendlier EF Core 2.0](https://msdn.microsoft.com/magazine/mt842503)
+* [DDD-Friendlier EF Core 2.0, Part 2](https://msdn.microsoft.com/magazine/mt826347)
+* [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 1](https://msdn.microsoft.com/magazine/dn342868)
+* [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 2](https://msdn.microsoft.com/magazine/dn385704)
+* [Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 3](https://msdn.microsoft.com/magazine/dn451438)
+* [A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts](https://msdn.microsoft.com/en-us/magazine/dn802601)
+* [A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts, Part 2](https://msdn.microsoft.com/en-us/magazine/dn857357)
+* [Shrink EF Models with DDD Bounded Contexts by Julie Lerman](https://msdn.microsoft.com/en-us/magazine/jj883952)
 
 ### Security
 
