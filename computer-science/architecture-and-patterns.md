@@ -1,5 +1,6 @@
 ## Architecture and Patterns
 
+* [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 * [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 * [Serverless Framework](https://serverless.com/)
 * [Design Patterns at Source Making](https://sourcemaking.com/design_patterns)
