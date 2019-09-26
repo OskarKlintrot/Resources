@@ -70,6 +70,7 @@
 * [Ocelot - A modern fast, scalable API gateway built on ASP.NET core.](https://threemammals.com/ocelot/)
 * [Cake - Cross platform build automation system for .NET](http://cakebuild.net/)
 * [Connect\(“demos”\); // 2016: BikeSharing360](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/)
-
+* [Browse code samples](https://docs.microsoft.com/samples/)
+* [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 
 
