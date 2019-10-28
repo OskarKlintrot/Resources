@@ -64,6 +64,7 @@
 ### Packages
 
 * [Noda  Time - A better date and time API for .NET](http://nodatime.org/)
+* [Using Azure DevOps Pipelines and NuKeeper to Automate NuGet Package updates](http://tattoocoder.com/using-azuredevops-pipelines-and-nukeeper-to-automate-nuget-package-updates/)
 
 ### Miscellaneous
 
