@@ -4,6 +4,7 @@
 * [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 * [Serverless Framework](https://serverless.com/)
 * [Design Patterns at Source Making](https://sourcemaking.com/design_patterns)
+* [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 ### Microservices
 
