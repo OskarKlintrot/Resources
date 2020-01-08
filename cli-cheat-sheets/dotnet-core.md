@@ -4,5 +4,6 @@
 
 Clear the package cache:
 
-`> dotnet nuget locals all --clear`
-
+```powershell
+> dotnet nuget locals all --clear
+```
