@@ -1,4 +1,4 @@
-## Architecture and Patterns
+# Architecture and Patterns
 
 * [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 * [Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
@@ -6,7 +6,7 @@
 * [Design Patterns at Source Making](https://sourcemaking.com/design_patterns)
 * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
-### Microservices
+## Microservices
 
 * [MonolithFirst by Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Introduction to Microservices by Chris Richardson on Nginx.com](https://www.nginx.com/blog/introduction-to-microservices/)
@@ -14,16 +14,16 @@
 * [Using the Retry pattern to make your cloud application more resilient by Rob Caron](https://azure.microsoft.com/en-us/blog/using-the-retry-pattern-to-make-your-cloud-application-more-resilient/?cdn=disable)
 * [.NET Microservices: Architecture for Containerized .NET Applications e-book](https://aka.ms/microservicesebook)
 
-### Docker
+## Docker
 
 * [Local Development with Docker Compose on Heroku Devcenter](https://devcenter.heroku.com/articles/local-development-with-docker-compose)
 * [Docker Compose Official Documentation](https://docs.docker.com/compose/)
-* [SSO with Nginx auth_request module by Benjamin Cremer](https://developers.shopware.com/blog/2015/03/02/sso-with-nginx-authrequest-module/)
+* [SSO with Nginx auth\_request module by Benjamin Cremer](https://developers.shopware.com/blog/2015/03/02/sso-with-nginx-authrequest-module/)
 * [Development with Docker Compose](http://howtocookmicroservices.com/docker-compose/)
 
-#### Lectures
+### Lectures
 
 * [Docker Tutorials playlist by LearnCode.academy on YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
 
-### Miscellaneous
+## Miscellaneous
 

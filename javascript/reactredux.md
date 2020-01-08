@@ -1,3 +1,5 @@
+# React - Redux
+
 ## React
 
 * [Container Components by Learn React with chantastic](https://medium.com/@learnreact/container-components-c0e67432e005#.9yfwzqgc0)
@@ -36,7 +38,4 @@
 * [What is Redux Thunk and when you don’t need it on Stack Overflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
 * [Redux Form, The best way to manage your form state in Redux.](http://redux-form.com/)
 * [Learning redux-form 6 with ES7](https://codepen.io/clindsey/post/learning-redux-form)
-
-
-
 

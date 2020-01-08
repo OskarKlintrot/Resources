@@ -1,3 +1,5 @@
+# Design and UX
+
 ## Design and UX
 
 * [Design Seeds Website](http://www.design-seeds.com/)
@@ -12,3 +14,4 @@
 ## Miscellaneous
 
 * [Animated SVG Avatar v2](https://codepen.io/dsenneff/full/2c3e5bc86b372d5424b00edaf4990173)
+

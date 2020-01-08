@@ -1,8 +1,6 @@
-## Progressive Web Apps
+# Progressive Web Apps
 
-### Miscellaneous
+## Miscellaneous
 
 * [PWA Builder - Generate your Progressive Web App](https://www.pwabuilder.com/)
-
-
 
