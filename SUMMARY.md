@@ -29,7 +29,3 @@
   * [Powershell](cli-cheat-sheets/powershell.md)
 * [Progressive Web Apps](progressive-web-apps-1.md)
 
-## Test
-
-* [Untitled](test/untitled.md)
-
