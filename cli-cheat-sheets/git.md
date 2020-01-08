@@ -84,3 +84,13 @@ Replace remote with local branch:
 > git push --force
 ```
 
+[Modify a specific commit:](https://stackoverflow.com/a/1186549/4826084)
+
+```text
+# WARNING! Only do this in your own branches!
+> git rebase --interactive 'bbc643cd^'
+# NOTE! Modify 'pick' to 'edit' in the line mentioning 'bbc643cd'
+> git commit --all --amend --no-edit
+> git rebase --continue
+```
+

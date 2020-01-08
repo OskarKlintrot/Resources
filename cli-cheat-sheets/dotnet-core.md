@@ -1,8 +1,9 @@
 # Dotnet core
 
+## Dotnet core
+
 Clear the package cache:
 
-```text
+```powershell
 > dotnet nuget locals all --clear
 ```
-
