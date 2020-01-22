@@ -16,4 +16,4 @@
 ## Miscellaneous
 
 * [Asynchronous Programming by David Fowler](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-
+* [C# 8: Nullable Reference Types by Gérald Barré](https://www.meziantou.net/csharp-8-nullable-reference-types.htm)
