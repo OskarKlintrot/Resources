@@ -28,4 +28,5 @@
   * [Docker for Windows](cli-cheat-sheets/docker-for-windows.md)
   * [Powershell](cli-cheat-sheets/powershell.md)
 * [Progressive Web Apps](progressive-web-apps-1.md)
+* [Miscellaneous](miscellaneous.md)
 
