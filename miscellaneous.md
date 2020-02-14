@@ -15,6 +15,8 @@
 * [To slash or not to slash on Google Webmaster Central Blog](https://webmasters.googleblog.com/2010/04/to-slash-or-not-to-slash.html)
 * [You Are Not Google by Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
 * [Stack Exchange Performance (Tech Stack)](https://stackexchange.com/performance)
+* [Why Waterfall Was A Big Misunderstanding From The Beginning – Reading The Original Paper](https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/)
+* [Waterfall – The Original Paper](https://web.archive.org/web/20040330021615/http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 
 ### For fun
 
