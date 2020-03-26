@@ -3,20 +3,34 @@
 Check row count twice with pause in between checks to see if row count increases in any tables
 
 ```sql
-SELECT GETDATE() CurrentTime
+DECLARE @RowCounts TABLE(
+  TableName sysname NOT NULL,
+  RecordsPre INT NOT NULL,
+  TimestampPre DateTimeOffset NOT NULL,
+  RecordsPost INT NULL,
+  TimestampPost DateTimeOffset NULL
+);
 
-SELECT T.name TableName, I.rows Records
+INSERT INTO @RowCounts (TableName, RecordsPre, TimestampPre)
+SELECT T.name TableName, I.rows Records, GETDATE() CurrentTime
 FROM sysobjects T, sysindexes I
 WHERE T.xtype = 'U' and I.id = T.id and I.indid IN (0,1)
-ORDER BY TableName
 
 WAITFOR DELAY '00:00:15'
 
-SELECT GETDATE() CurrentTime
+UPDATE A
+SET RecordsPost = B.Records,
+    TimestampPost = B.CurrentTime
+FROM (
+  SELECT T.name TableName, I.rows Records, GETDATE() CurrentTime
+  FROM sysobjects T, sysindexes I
+  WHERE T.xtype = 'U' and I.id = T.id and I.indid IN (0,1)
+) B
+INNER JOIN @RowCounts A
+ON A.TableName = B.TableName
 
-SELECT T.name TableName, I.rows Records
-FROM sysobjects T, sysindexes I
-WHERE T.xtype = 'U' and I.id = T.id and I.indid IN (0,1)
+SELECT *
+FROM @RowCounts
 ORDER BY TableName
 ```
 
