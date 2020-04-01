@@ -30,6 +30,7 @@
 
 * [One Hacker Way by Erik Meijer on Vimeo](https://vimeo.com/110554082)
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++" on YouTube](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+* [Vertical Slice Architecture by Jimmy Bogard on YouTube](https://www.youtube.com/watch?v=SUiWfhAhgQw)
 
 ## Traffic Safety
 
