@@ -26,12 +26,14 @@
 * [Programming Sucks by Peter Welch](https://www.stilldrinking.org/programming-sucks)
 * [The Churn on The Clean Code Blog by Robert C. Martin \(Uncle Bob\)](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 * [RFC for the 7XX Range of HTTP Status codes - Developer Errors](https://github.com/joho/7XX-rfc)
+* [Wat – A lightning talk by Gary Bernhardt from CodeMash 2012](https://www.destroyallsoftware.com/talks/wat)
 
 ## Lectures and Talks
 
 * [One Hacker Way by Erik Meijer on Vimeo](https://vimeo.com/110554082)
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++" on YouTube](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Vertical Slice Architecture by Jimmy Bogard on YouTube](https://www.youtube.com/watch?v=SUiWfhAhgQw)
+* [Domain Driven Design: The Good Parts by Jimmy Bogard on YouTube](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 
 ## Traffic Safety
 
