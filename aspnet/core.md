@@ -35,6 +35,7 @@
 ## Testing
 
 * [Painless Integration Testing with ASP.NET Core Web API by Mark Macneil](https://fullstackmark.com/post/20/painless-integration-testing-with-aspnet-core-web-api)
+* [How to get ASP.NET Core logs in the output of xUnit tests by Gérald Barré](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
 
 ## Miscellaneous
 
