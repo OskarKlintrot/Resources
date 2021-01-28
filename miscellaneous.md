@@ -20,6 +20,11 @@
 * [The Software Engineering Manifesto by Hassan Habib](https://hassanhabib.com/2019/03/23/the-software-engineering-manifesto/)
 * [Refactoring: This class is too large by Clare Sudbery](https://martinfowler.com/articles/class-too-large.html)
 
+## Fonts
+
+* [Fira Code](https://github.com/tonsky/FiraCode)
+* [Monogram Extended](https://datagoblin.itch.io/monogram/devlog/30375/monogram-extended-is-out)
+
 ## For fun
 
 * [It's The Future](https://circleci.com/blog/its-the-future/)
