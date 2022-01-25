@@ -2,10 +2,11 @@
 
 * [Introduction](README.md)
 * [ASP.NET](aspnet/README.md)
-  * [F\#](aspnet/fsharp.md)
-  * [C\#](aspnet/csharp.md)
+  * [F#](aspnet/fsharp.md)
+  * [C#](aspnet/csharp.md)
   * [.NET Core](aspnet/core.md)
-* [\(T-\)SQL](t-sql/README.md)
+  * [MSBuild](aspnet/msbuild.md)
+* [(T-)SQL](t-sql/README.md)
   * [Snippets](t-sql/snippets.md)
 * [Typescript](typescript.md)
 * [Javascript](javascript/README.md)
@@ -30,4 +31,3 @@
   * [Powershell](cli-cheat-sheets/powershell.md)
 * [Progressive Web Apps](progressive-web-apps-1.md)
 * [Miscellaneous](miscellaneous.md)
-
