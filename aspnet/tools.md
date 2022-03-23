@@ -7,6 +7,5 @@
 
 ## Test tooling
 
-[NBomber](https://github.com/PragmaticFlow/NBomber)
-
-[Verify.EntityFramework](https://github.com/VerifyTests/Verify.EntityFramework)
+* [NBomber](https://github.com/PragmaticFlow/NBomber)
+* [Verify.EntityFramework](https://github.com/VerifyTests/Verify.EntityFramework)
