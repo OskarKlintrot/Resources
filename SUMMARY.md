@@ -6,6 +6,7 @@
   * [C#](aspnet/csharp.md)
   * [.NET Core](aspnet/core.md)
   * [MSBuild](aspnet/msbuild.md)
+  * [Tools](aspnet/tools.md)
 * [(T-)SQL](t-sql/README.md)
   * [Snippets](t-sql/snippets.md)
 * [Typescript](typescript.md)
