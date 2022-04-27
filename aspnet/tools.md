@@ -8,6 +8,7 @@
 * [diffenginetray](https://github.com/VerifyTests/DiffEngine/blob/main/docs/tray.md)
 * [dotnet-stryker](https://stryker-mutator.io)
 * [Amusing](https://github.com/drewnoakes/amusing)
+* [dotnet-serve](https://github.com/natemcmaster/dotnet-serve)
 
 ## Test tooling
 
