@@ -19,6 +19,7 @@
   * [Waterfall – The Original Paper](https://web.archive.org/web/20040330021615/http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 * [The Software Engineering Manifesto by Hassan Habib](https://hassanhabib.com/2019/03/23/the-software-engineering-manifesto/)
 * [Refactoring: This class is too large by Clare Sudbery](https://martinfowler.com/articles/class-too-large.html)
+* [How to Freaking Find Great Developers By Having Them Read Code by Freaking Rectangle](https://web.archive.org/web/20230416055512/https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 
 ## Fonts
 
